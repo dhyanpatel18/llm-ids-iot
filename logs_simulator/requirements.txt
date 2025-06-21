@@ -1,0 +1,4 @@
+# Simulation dependencies
+faker==19.13.0
+pandas==2.1.4
+tqdm==4.66.1  # For progress bars
