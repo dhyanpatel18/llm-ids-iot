@@ -31,5 +31,6 @@ python logs_simulator/analyze_logs.py
   "attack_type": "DDoS"
 }
 ```
-
+![Log Generation](ss1.png)
+![Analyze_Log Generation](ss2.png)
 
